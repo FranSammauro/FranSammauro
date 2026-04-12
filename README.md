@@ -38,8 +38,11 @@ I’m a 16-year-old full-stack developer focused on building real-world software
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/frann_210/">
+<a href="https://www.instagram.com/frann_210/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="https://discord.com/users/1322733197557108760">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 <a href="mailto:fs.sammauro@gmail.com" >
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
