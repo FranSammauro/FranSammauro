@@ -48,7 +48,7 @@ The goal is to build a production-oriented networking component from the ground 
 - Observability
 - Performance optimization
 
-> **Status:** Active development · `v0.3.0`
+> **Status:** Active development · `v0.4.0`
 
 <p>
   <a href="https://github.com/FranSammauro/Raptor">
@@ -132,13 +132,17 @@ A systems-oriented project focused on networking, routing, reliability, observab
 
 ---
 
-### 🎓 EduConnect
+### ⚙️ Distributed Job Queue
 
-> Backend infrastructure for managing educational institutions and academic data.
+> Distributed background job processing system built from scratch in Rust.
 
-A multi-tenant backend designed around authentication, academic management, attendance, grades, notifications and role-based access control.
+A reliable job queue designed to coordinate concurrent workers and process asynchronous tasks across distributed services.
 
-**TypeScript · Next.js · PostgreSQL · Prisma**
+The system will explore job priorities, automatic retries, exponential backoff, dead-letter queues, worker heartbeats, timeouts, scheduling, persistence, idempotency and fault recovery.
+
+**Rust · PostgreSQL · Redis · Docker**
+
+> 🚧 **Coming Soon**
 
 ---
 
@@ -156,3 +160,15 @@ Backend Engineering
                 │
                 ▼
         Systems Engineering
+```
+
+I'm currently focusing on going beyond simply making software that works:
+
+<b>design → implementation → testing → observability → performance → reliability</b>
+
+--- 
+## 🤝 Connect With Me
+<a href="https://www.instagram.com/frann_210/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="https://discord.com/users/1322733197557108760"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"> </a> <a href="mailto:fs.sammauro@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+
+---
+<p align="center"> <i>Build it. Break it. Understand it. Improve it.</i> </p>
