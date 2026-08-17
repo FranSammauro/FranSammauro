@@ -1,52 +1,158 @@
-<h1 align="center">Hi , I'm Francisco Sammauro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm Francisco Sammauro 👋
+</h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Future+Software+Engineer;Full-Stack+Developer;Self-taught+Student"></a>
+  <a href="https://readme-typing-svg.herokuapp.com/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=60&lines=Backend+%26+Systems+Developer;Backend+Engineer+in+Progress;Systems+Programming+Enthusiast">
+  </a>
 </p>
 
+<p align="center">
+  <strong>Building backend infrastructure, exploring systems, and learning how software works under the hood.</strong>
+</p>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+---
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+## 🧠 About Me
 
-<br>
-I’m a 16-year-old full-stack developer focused on building real-world software and continuously improving my skills. I work mainly with JavaScript and Python, with a strong interest in backend development and software engineering. I’m also exploring cybersecurity as a field I want to dive deeper into in the future, aiming to grow into a well-rounded software engineer.
-<br><br>
+I'm a backend and systems developer focused on building real-world software and understanding how systems work under the hood.
 
-- :school: I am a `Fifth-year` Student at [Instituto Verbo Divino](https://www.institutoverbodivino.edu.ar/)
-- :technologist: I love using Software as a solution for every `Problem`.
-- :nerd_face: Always `learning new things`.
-<br>
+I'm particularly interested in **backend architecture, distributed systems, networking, observability, security, and systems programming**, with a strong focus on Rust and Python.
 
+- 🎓 Fifth-year secondary school student
+- 🦀 Building backend infrastructure with **Rust**
+- 🐍 Building backend services and tooling with **Python**
+- 🐧 Linux enthusiast
+- 🌐 Interested in networking and distributed systems
+- 🔭 Currently exploring systems engineering and high-performance backend architecture
+- 📚 Constantly learning by building things from scratch
 
-### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+---
 
+## 🚧 Currently Building
 
-## Check out my Social Media
+### 🦖 Raptor
 
-<a href="https://www.instagram.com/frann_210/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://discord.com/users/1322733197557108760">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-<a href="mailto:fs.sammauro@gmail.com" >
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+**Raptor** is a high-performance reverse proxy and API gateway written in Rust.
 
+The goal is to build a production-oriented networking component from the ground up while exploring:
 
+- HTTP request routing
+- Reverse proxying
+- Load balancing
+- Health checks
+- Fault tolerance
+- Rate limiting
+- Security
+- Observability
+- Performance optimization
 
+> **Status:** Active development · `v0.3.0`
+
+<p>
+  <a href="https://github.com/FranSammauro/Raptor">
+    <img src="https://img.shields.io/badge/View%20Project-Raptor-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🔨 What I Like Building
+
+I enjoy projects that sit closer to the infrastructure layer rather than simple CRUD applications.
+
+### Backend Systems
+
+Designing APIs, services and infrastructure components with a focus on reliability, performance and maintainability.
+
+### Systems Programming
+
+Exploring memory, concurrency, networking, operating systems and low-level software.
+
+### Distributed Systems
+
+Learning how independent services communicate, fail, recover and scale.
+
+### Security
+
+Understanding how systems can be attacked, defended and designed with security in mind.
+
+### Observability
+
+Working with metrics, logs and traces to understand what is actually happening inside a system.
+
+---
+
+## 🛠️ Technical Stack
+
+### Languages
+
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Hyper](https://img.shields.io/badge/Hyper-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+### Infrastructure & Tooling
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🦖 [Raptor](https://github.com/FranSammauro/Raptor)
+
+> High-performance reverse proxy and API gateway written in Rust.
+
+A systems-oriented project focused on networking, routing, reliability, observability and performance.
+
+**Rust · Tokio · Axum · Hyper · HTTP · Networking**
+
+---
+
+### 🎓 EduConnect
+
+> Backend infrastructure for managing educational institutions and academic data.
+
+A multi-tenant backend designed around authentication, academic management, attendance, grades, notifications and role-based access control.
+
+**TypeScript · Next.js · PostgreSQL · Prisma**
+
+---
+
+## 🎯 Current Focus
+
+```text
+Backend Engineering
+        │
+        ├── Rust
+        ├── Networking
+        ├── Distributed Systems
+        ├── Reliability
+        ├── Observability
+        └── Security
+                │
+                ▼
+        Systems Engineering
