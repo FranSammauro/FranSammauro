@@ -48,7 +48,7 @@ The goal is to build a production-oriented networking component from the ground 
 - Observability
 - Performance optimization
 
-> **Status:** Active development · `v0.4.0`
+> **Status:** Active development · `v0.6.0`
 
 <p>
   <a href="https://github.com/FranSammauro/Raptor">
